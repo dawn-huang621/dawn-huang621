@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawn-huang621&show_icons=true&bg_color=1E1E1E&title_color=F2994A&text_color=FFFFFF&icon_color=F2994A&border_color=F2994A)
+<br>
 I believe software engineering is not only about writing code.
 
 Black represents logic, stability, and the ability to calmly analyze complex systems.
