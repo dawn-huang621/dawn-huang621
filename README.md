@@ -1,3 +1,13 @@
-**是個熱愛思考和厭世黑貓當室友的平凡女子，目前正在練習render來部署**
-<br>🈶vue、php、Laravel、ruby on rails
+**I believe software engineering is not only about writing code.
+
+Black represents logic, stability, and the ability to calmly analyze complex systems.
+Orange represents curiosity, warmth, and continuous learning.
+
+As a backend engineer, I enjoy organizing complex workflows, solving production issues, and building maintainable business systems.
+**
+<br>🐈‍⬛ Dawn Huang
+Backend / ERP Engineer
+
+Building maintainable business systems
+with Laravel, SQL and Docker.
 <br>電子郵件: q2379685@gmail.com
